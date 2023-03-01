@@ -8,6 +8,6 @@
 
 设计工具：Sketch
 
-
+页面设计：[点此查看](https://github.com/yujunmjiang/Sequoia-interview-exem/tree/main/interface-design)
 
 本次Web及iOS端页面设计均由本人独立完成，仅供 Sequoia 红杉北京面试测评，未经同意，请勿私自转载或使用
