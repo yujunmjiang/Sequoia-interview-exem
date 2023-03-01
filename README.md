@@ -1,5 +1,7 @@
 # Sequoia 红杉北京设计职位笔试答题
 
+<img src="https://github.com/yujunmjiang/Sequoia-interview-exem/blob/main/img/Light.png" width="25%"/>
+
 背景介绍：为虚拟高端电吹风品牌 Dynamic 设计注册及登陆流程，详见[原题目](https://github.com/scdt-china/interview-assignments/tree/master/design)
 
 支持平台：Web / iOS 端
