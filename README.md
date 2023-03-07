@@ -1,4 +1,4 @@
-# Sequoia 红杉北京设计职位笔试答题
+# Dynamic 高级电吹风商城注册 / 登陆流程
 
 <img src="https://github.com/yujunmjiang/Sequoia-interview-exem/blob/main/img/Light.png" width="25%"/>
 
