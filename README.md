@@ -1,4 +1,4 @@
-# Dynamic 高级电吹风商城注册 / 登陆流程
+# Dynamic 商城注册 / 登陆流程
 
 <img src="https://github.com/yujunmjiang/Sequoia-interview-exem/blob/main/img/Light.png" width="25%"/>
 
